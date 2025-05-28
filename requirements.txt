@@ -10,7 +10,8 @@ onnxruntime-gpu==1.19.0
 mxnet-cu112
 scikit-image
 insightface==0.2.1
-requests==2.27
+rich==13.7.1
+requests==2.31
 kornia
 dill
 wandb

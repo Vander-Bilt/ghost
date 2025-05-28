@@ -1,6 +1,6 @@
 numpy
 -f https://download.pytorch.org/whl/torch_stable.html
-torch==2.3.1+cu121
+torch==2.3.1+cu112
 -f https://download.pytorch.org/whl/torch_stable.html
 torchvision==0.18.1
 kfserving

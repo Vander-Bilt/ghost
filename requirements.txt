@@ -1,13 +1,14 @@
 numpy
 -f https://download.pytorch.org/whl/torch_stable.html
-torch==2.1.0+cu118
+torch==1.12.1+cu102
 -f https://download.pytorch.org/whl/torch_stable.html
-torchvision==0.16.0+cu118
+torchvision==0.13.1+cu102
+torchaudio==0.12.1
 kfserving
 opencv-python
 onnx==1.16.0
 onnxruntime-gpu==1.19.0
-mxnet-cu112
+mxnet-cu102
 scikit-image
 insightface==0.2.1
 rich==13.7.1

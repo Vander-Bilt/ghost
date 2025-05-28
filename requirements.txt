@@ -1,5 +1,5 @@
 numpy==1.26.4
-opencv-python==4.10.0
+opencv-python==4.10.0.82
 onnx==1.16.1
 onnxruntime-gpu==1.18.1
 mxnet-cu117==1.9.1

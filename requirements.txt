@@ -7,9 +7,9 @@ kfserving
 opencv-python
 onnx==1.16.0
 onnxruntime-gpu==1.19.0
-mxnet-cu102
+mxnet-cu101
 scikit-image
-insightface==0.2.1
+insightface
 rich==13.7.1
 requests==2.31
 kornia

@@ -5,7 +5,7 @@ torch==2.3.0+cu121
 torchvision==0.18.0+cu121
 opencv-python
 onnx==1.9.0
-onnxruntime-gpu==1.4.0
+onnxruntime-gpu==1.22.0
 mxnet-cu101mkl
 scikit-image
 insightface==0.2.1
